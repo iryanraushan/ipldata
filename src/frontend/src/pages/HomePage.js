@@ -22,7 +22,9 @@ export const HomePage = () => {
 		<>
 			<Navigation />
 			<div>
-				<div className="text-3xl py-3 text-center">IPL Matches</div>
+				<div className="text-3xl py-3 text-center mt-5">
+					IPL Matches
+				</div>
 				<div className="HomePage text-2xl py-4 ">
 					<div className="team-grid shadow-xl rounded-md ">
 						{teams.map((team) => (

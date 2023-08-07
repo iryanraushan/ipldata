@@ -25,10 +25,10 @@ const SearchBar = ({ setResults }) => {
 		fetchData(value);
 	};
 	return (
-		<div className="flex items-center bg-white rounded-lg   p-2">
+		<div className="flex items-center bg-white rounded-lg p-[5px]">
 			<FaSearch color="black" />
 			<input
-				className="placeholder:italic bg-white placeholder:text-xl placeholder:text-blue-gray-800  border-slate-300 pl-3  focus:outline-none  text-gray-800  text-xl"
+				className="placeholder:italic bg-white placeholder:text-xl placeholder:text-blue-gray-800  border-slate-300 pl-2 focus:outline-none  text-gray-800  text-xl"
 				placeholder="Search.."
 				type="text"
 				value={input}

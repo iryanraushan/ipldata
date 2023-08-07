@@ -2,10 +2,11 @@ import React from "react";
 
 const SocialMedia = () => {
 	return (
-		<div class="flex items-center space-x-6 justify-center p-5">
+		<div className="flex items-center space-x-6 justify-center p-5">
 			<a
-				class="flex-shrink-0"
+				className="flex-shrink-0"
 				target="_blank"
+				rel="noreferrer"
 				href="https://github.com/iryanraushan"
 			>
 				<svg
@@ -13,7 +14,7 @@ const SocialMedia = () => {
 					width="20"
 					height="20"
 					fill="currentColor"
-					class="bi bi-github"
+					className="bi bi-github"
 					viewBox="0 0 16 16"
 				>
 					{" "}
@@ -24,12 +25,13 @@ const SocialMedia = () => {
 				</svg>
 			</a>
 			<a
-				class="flex-shrink-0"
+				className="flex-shrink-0"
 				target="_blank"
+				rel="noreferrer"
 				href="https://www.instagram.com/gothicisolation/"
 			>
 				<svg
-					class="h-6 w-6 fill-current text-white"
+					className="h-6 w-6 fill-current text-white"
 					xmlns="http://www.w3.org/2000/svg"
 					viewBox="0 0 448 512"
 				>
@@ -37,25 +39,30 @@ const SocialMedia = () => {
 				</svg>
 			</a>
 			<a
-				class="flex-shrink-0"
+				className="flex-shrink-0"
 				target="_blank"
+				rel="noreferrer"
 				href="https://www.youtube.com/@gothicisolation"
 			>
 				<svg
-					class="h-6 w-6 fill-current text-white"
+					className="h-6 w-6 fill-current text-white"
 					xmlns="http://www.w3.org/2000/svg"
 					viewBox="0 0 576 512"
 				>
 					<path d="M549.655 124.083c-6.281-23.65-24.787-42.276-48.284-48.597C458.781 64 288 64 288 64S117.22 64 74.629 75.486c-23.497 6.322-42.003 24.947-48.284 48.597-11.412 42.867-11.412 132.305-11.412 132.305s0 89.438 11.412 132.305c6.281 23.65 24.787 41.5 48.284 47.821C117.22 448 288 448 288 448s170.78 0 213.371-11.486c23.497-6.321 42.003-24.171 48.284-47.821 11.412-42.867 11.412-132.305 11.412-132.305s0-89.438-11.412-132.305zm-317.51 213.508V175.185l142.739 81.205-142.739 81.201z" />
 				</svg>
 			</a>
-			<a href="https://www.linkedin.com/in/ryan-raushan/" target="_blank">
+			<a
+				href="https://www.linkedin.com/in/ryan-raushan/"
+				target="_blank"
+				rel="noreferrer"
+			>
 				<svg
 					xmlns="http://www.w3.org/2000/svg"
 					width="20"
 					height="20"
 					fill="currentColor"
-					class="bi bi-linkedin"
+					className="bi bi-linkedin"
 					viewBox="0 0 16 16"
 				>
 					{" "}
