@@ -8,8 +8,8 @@
 		<version>2.4.4</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.ryan</groupId>
-	<artifactId>ipl-dashboard</artifactId>
+	<groupId>com.iryanraushan</groupId>
+	<artifactId>ipldata</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>ipl-dashboard</name>
 	<description>this this spring boot project</description>
