@@ -1,7 +1,6 @@
-
 # IPLDATA
 
-## About this project : 
+## About this project :
 
 The ultimate website for IPL fans
 and cricket enthusiasts. IPL Dashboard is a website that
@@ -15,17 +14,26 @@ can explore various aspects of the matches, such as the
 teams, players, venues, tosses, scores, outcomes, and more.
 
 ## Technology Used
-- Frontend : HTML, CSS, Reactjs, Tailwind CSS
-- Backend : Spring Boot
-- DataBase : HSQLDB
-- Tools : npm, yarn
-- Editor : vscode
-  
-## Preview 
-https://github.com/iryanraushan/ipldata/assets/83304272/abbac68d-d52a-44bb-a1df-5bf232c63469
+
+-   Frontend : HTML, CSS, Reactjs, Tailwind CSS
+-   Backend : Spring Boot
+-   DataBase : HSQLDB
+-   Tools : npm, yarn
+-   Editor : vscode
+
+## Preview
+
+./Preview/preview.mp4
 
 ## ScreenShots
-![s1](https://github.com/iryanraushan/ipldata/assets/83304272/6bf81d60-a388-4692-8525-7bd3ba6369f9)
-![s2](https://github.com/iryanraushan/ipldata/assets/83304272/dbeedc6a-2f8e-4475-93a0-79b18a76b50c)
-![s3](https://github.com/iryanraushan/ipldata/assets/83304272/636f4622-a210-4cd5-9de4-d5a145310442)
+
+![s1](./Preview/s1.png)
+![s2](./Preview/s2.png)
+![s3](./Preview/s3.png)
+
+# Deployment :
+
+`target/ipldata-0.0.1-SNAPSHOT.jar`
+
+jar file is ready to deploy...
 
