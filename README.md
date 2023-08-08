@@ -27,13 +27,12 @@ teams, players, venues, tosses, scores, outcomes, and more.
 https://github.com/iryanraushan/ipldata/assets/83304272/bfc2bc93-5f93-44a7-a5c2-d9e7235c4254
 
 
-
-
 ## ScreenShots
 
-![s1](./Preview/s1.png)
-![s2](./Preview/s2.png)
-![s3](./Preview/s3.png)
+![s1](https://github.com/iryanraushan/ipldata/assets/83304272/fc0377d5-ab8a-4f4a-9a62-7a4d85841ff4)
+![s2](https://github.com/iryanraushan/ipldata/assets/83304272/d112061c-934a-465b-a399-62f845b1f345)
+![s3](https://github.com/iryanraushan/ipldata/assets/83304272/ff9a2a6e-c0e0-4d06-8aeb-1c876ba40c3f)
+
 
 # Deployment :
 
