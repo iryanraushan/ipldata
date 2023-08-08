@@ -23,7 +23,11 @@ teams, players, venues, tosses, scores, outcomes, and more.
 
 ## Preview
 
-./Preview/preview.mp4
+
+https://github.com/iryanraushan/ipldata/assets/83304272/bfc2bc93-5f93-44a7-a5c2-d9e7235c4254
+
+
+
 
 ## ScreenShots
 
